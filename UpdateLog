@@ -1,0 +1,5 @@
+9/11/20
+V1.0.0 was created, opens and reads any type of file.
+
+10/11/20
+V1.0.1, Asks if .exe, .jar, pdf or pictures should be opened before being actually opened, plus some color and "loading scenes" were added.
