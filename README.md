@@ -11,3 +11,4 @@ If you feel uncomfortable with the .exe file, just copy and paste the code in Pr
 
 
 
+Take in mind that encrypted files won't work quite right.
