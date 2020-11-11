@@ -1,7 +1,7 @@
 # FileSearcher
-Small c# executable file that can search between different text files. You can open .py and .jar files without an IDE and search for words inside them.  
+Small c# executable file that can search between different text files. You can open .py and .java files without an IDE and search for words inside them.  
 
-Feel free to edit it and improve it.
+Feel free to edit this code and improve it.
 
 
 For the moment it is just a simple console that pops up. No administrator perms needed.
@@ -11,4 +11,4 @@ If you feel uncomfortable with the .exe file, just copy and paste the code in Pr
 
 
 
-Take in mind that encrypted files won't work quite right.
+Take in mind that encrypted files won't work quite right nor will do pdf files, images or other executable files.
